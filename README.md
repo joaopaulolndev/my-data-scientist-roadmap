@@ -15,8 +15,8 @@ This section is to list the courses taken and those that will be done in the fut
 
 |  | **Name** | **School** | **End Date** | **Certified** |
 | ---------- | ----- | ------ | --------- | ------------ | 
-| ◻️ | [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) | Francois Chollet | Manning | Jan&nbsp;2018&nbsp;(*) | 
-| ✔️ | [Python Tricks: The Book](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301/) | Dan Bader | Ron Holland Designs | Oct&nbsp;2017 | 
+| ✔️ | [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) | [Data Science Academy](https://www.datascienceacademy.com.br) | Dec&nbsp;2017 | https://goo.gl/ip7CsH | 
+| ✔️ | [Introdução à Ciência de Dados](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) | [Data Science Academy](https://www.datascienceacademy.com.br) | Dec&nbsp;2017 | https://goo.gl/vmB2fG |  
 | ◻️ | [Python for Data Analysis (2nd ed.)](https://www.safaribooksonline.com/library/view/python-for-data/9781491957653/) | Wes McKinney | O'Reilly | Oct&nbsp;2017 |
 
 
