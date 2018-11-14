@@ -42,10 +42,6 @@ This section is to list the courses taken and those that will be done in the fut
 | ◻️ | [Machine Learning Practical: 6 Real-World Applications](https://www.udemy.com/machine-learning-practical/) | [Udemy](https://www.udemy.com) |  |  | 
 
 
-
-
-
-
 # 2. Books
 
 This is a selection of books for Data Science and related disciplines from which I have good references. The books are listed in descending order of publication date.
@@ -63,6 +59,7 @@ This is a selection of books for Data Science and related disciplines from which
 - [Scikit-Learn Documentation](https://scikit-learn.org/stable/index.html)
 - [TensorFlow](https://www.tensorflow.org/)
 - [Keras](https://keras.io)
+- [Numpy and Scipy Documentation](https://docs.scipy.org/doc/)
  
 # 4. Contact 
 > Linkedin: https://www.linkedin.com/in/joaopaulolndev/ <br/> Email: joaopaulolndev@gmail.com
