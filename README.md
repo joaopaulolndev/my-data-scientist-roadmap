@@ -35,3 +35,6 @@ This is a selection of books for Data Science and related disciplines from which
 
 # 3. References
  Pandas Documentation 
+ 
+# 4. Contact 
+> Linkedin: https://www.linkedin.com/in/joaopaulolndev/ <br/> Email: joaopaulolndev@gmail.com
