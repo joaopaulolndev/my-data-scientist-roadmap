@@ -15,8 +15,8 @@ This section is to list the courses taken and those that will be done in the fut
 
 |  | **Name** | **School** | **End Date** | **Certified** |
 | ---------- | ----- | ------ | --------- | ------------ | 
-| ✔️ | [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) | [Data Science Academy](https://www.datascienceacademy.com.br) | Dec&nbsp;2017 | [<img width='28' height='28' src='https://media.licdn.com/dms/image/C4D0BAQFPN3qN2GxsZQ/company-logo_400_400/0?e=1550102400&v=beta&t=E-yESxqIuMpCCO3w-k7GRHL_ExN8H03YANOtiRof9tQ'>](https://goo.gl/ip7CsH) | 
-| ✔️ | [Introdução à Ciência de Dados](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) | [Data Science Academy](https://www.datascienceacademy.com.br) | Dec&nbsp;2017 | [<img width='28' height='28' src='https://media.licdn.com/dms/image/C4D0BAQFPN3qN2GxsZQ/company-logo_400_400/0?e=1550102400&v=beta&t=E-yESxqIuMpCCO3w-k7GRHL_ExN8H03YANOtiRof9tQ'>](https://goo.gl/vmB2fG) |  
+| ✔️ | [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) | [DS Academy](https://www.datascienceacademy.com.br) | Dec&nbsp;2017 | [<img width='28' height='28' src='https://media.licdn.com/dms/image/C4D0BAQFPN3qN2GxsZQ/company-logo_400_400/0?e=1550102400&v=beta&t=E-yESxqIuMpCCO3w-k7GRHL_ExN8H03YANOtiRof9tQ'>](https://goo.gl/ip7CsH) | 
+| ✔️ | [Introdução à Ciência de Dados](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) | [DS Academy](https://www.datascienceacademy.com.br) | Dec&nbsp;2017 | [<img width='28' height='28' src='https://media.licdn.com/dms/image/C4D0BAQFPN3qN2GxsZQ/company-logo_400_400/0?e=1550102400&v=beta&t=E-yESxqIuMpCCO3w-k7GRHL_ExN8H03YANOtiRof9tQ'>](https://goo.gl/vmB2fG) |  
 | ✔️ | [Python para Data Science e Machine Learning](https://www.udemy.com/python-para-data-science-e-machine-learning) | [Udemy](https://www.udemy.com) | Feb&nbsp;2018 | [<img width='28' height='28' src='https://media.licdn.com/dms/image/C510BAQFKXnLDglG5qA/company-logo_400_400/0?e=1550102400&v=beta&t=d-x-pPgn-5T7X-KBNakilqJieZGcTC50fXN82M_LOYk'>](http://ude.my/UC-AW6HSRY4) |  
 | ✔️ | [Data Manipulation with Python Track](https://www.datacamp.com) | [DataCamp](https://www.datacamp.com) | Jul&nbsp;2018 | [<img width='28' height='28' src='https://media.licdn.com/dms/image/C4D0BAQFCcKVOLdxqwQ/company-logo_400_400/0?e=1550102400&v=beta&t=K1xY9hWcguRRgXqCnCnqyd_CjXL-XnN2rXJCLFTa14M'>](https://www.datacamp.com/statement-of-accomplishment/track/44140f559ae64e6ee56c6c85b5a2af7b7d39e0e3) | 
 | ✔️ | [Python Programmer Track](https://www.datacamp.com) | [DataCamp](https://www.datacamp.com) | Aug&nbsp;2018 | [<img width='28' height='28' src='https://media.licdn.com/dms/image/C4D0BAQFCcKVOLdxqwQ/company-logo_400_400/0?e=1550102400&v=beta&t=K1xY9hWcguRRgXqCnCnqyd_CjXL-XnN2rXJCLFTa14M'>](https://www.datacamp.com/statement-of-accomplishment/track/9f16b89dec05631144256d1729550b58cde54f66) | 
@@ -28,6 +28,13 @@ This section is to list the courses taken and those that will be done in the fut
 | ✔️ | [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/) | [Udemy](https://www.udemy.com) | Out&nbsp;2018 | [<img width='28' height='28' src='https://media.licdn.com/dms/image/C510BAQFKXnLDglG5qA/company-logo_400_400/0?e=1550102400&v=beta&t=d-x-pPgn-5T7X-KBNakilqJieZGcTC50fXN82M_LOYk'>](https://www.udemy.com/certificate/UC-O9ZSTZZO/) | 
 | ✔️ | [Python 3 Completo - Iniciante ao Avançado](https://www.udemy.com/python-3-completo/) | [Udemy](https://www.udemy.com) | Nov&nbsp;2018 | [<img width='28' height='28' src='https://media.licdn.com/dms/image/C510BAQFKXnLDglG5qA/company-logo_400_400/0?e=1550102400&v=beta&t=d-x-pPgn-5T7X-KBNakilqJieZGcTC50fXN82M_LOYk'>](https://www.udemy.com/certificate/UC-G0BVCLTC/) | 
 | ✔️ | [Formação Cientista de Dados com R e Python](https://www.udemy.com/python-3-completo/) | [Udemy](https://www.udemy.com) | Nov&nbsp;2018 | [<img width='28' height='28' src='https://media.licdn.com/dms/image/C510BAQFKXnLDglG5qA/company-logo_400_400/0?e=1550102400&v=beta&t=d-x-pPgn-5T7X-KBNakilqJieZGcTC50fXN82M_LOYk'>](https://www.udemy.com/certificate/UC-IFJQVQJK/) | 
+| ◻️ | [ PyTorch Scholarship Challenge](https://br.udacity.com/facebook-pytorch-scholarship) | [Udacity](https://www.udacity.com.br) |  |  | 
+| ◻️ | [Deep Learning com Python de A à Z - O Curso Completo](https://www.udemy.com/deep-learning-com-python-az-curso-completo/) | [Udemy](https://www.udemy.com) |  |  | 
+| ◻️ | [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/deeplearning/) | [Udemy](https://www.udemy.com) |  |  | 
+
+
+
+
 
 
 # 2. Books
