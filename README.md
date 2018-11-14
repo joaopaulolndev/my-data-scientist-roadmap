@@ -17,6 +17,7 @@ This section is to list the courses taken and those that will be done in the fut
 | ---------- | ----- | ------ | --------- | ------------ | 
 | ✔️ | [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) | [Data Science Academy](https://www.datascienceacademy.com.br) | Dec&nbsp;2017 | [5a3ac89b5e4cdea7148b4568](https://goo.gl/ip7CsH) | 
 | ✔️ | [Introdução à Ciência de Dados](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) | [Data Science Academy](https://www.datascienceacademy.com.br) | Dec&nbsp;2017 | [5a3d50145e4cdeb9d88b4574](https://goo.gl/vmB2fG) |  
+| ✔️ | [Python para Data Science e Machine Learning](https://www.udemy.com/python-para-data-science-e-machine-learning) | [Udemy](https://www.udemy.com) | Feb&nbsp;2018 | [UC-AW6HSRY4](http://ude.my/UC-AW6HSRY4) |  
 | ◻️ | [Python for Data Analysis (2nd ed.)](https://www.safaribooksonline.com/library/view/python-for-data/9781491957653/) | Wes McKinney | O'Reilly | Oct&nbsp;2017 |
 
 
