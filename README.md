@@ -22,4 +22,11 @@ This section is to list the courses taken and those that will be done in the fut
 
 # 2. Books
 
+This is a selection of books for Data Science and related disciplines from which I have good references. The books are listed in descending order of publication date.
+
+|  | **Title** | **Author** | **Publisher** | **Release Date** | 
+| ---------- | ----- | ------ | --------- | ------------ |
+| ◻️ | [Machine Learning with Python](http://shop.oreilly.com/product/0636920085423.do) | Chris Albon | O'Reilly Media | March 2018 | 
+
+
 # 3. References
