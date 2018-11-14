@@ -16,8 +16,8 @@ This section is to list the courses taken and those that will be done in the fut
 |  | **Name** | **School** | **End Date** | **Certified** |
 | ---------- | ----- | ------ | --------- | ------------ | 
 | ✔️ | [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) | [Data Science Academy](https://www.datascienceacademy.com.br) | Dec&nbsp;2017 | [<img width='28' height='28' src='https://media.licdn.com/dms/image/C4D0BAQFPN3qN2GxsZQ/company-logo_400_400/0?e=1550102400&v=beta&t=E-yESxqIuMpCCO3w-k7GRHL_ExN8H03YANOtiRof9tQ'>](https://goo.gl/ip7CsH) | 
-| ✔️ | [Introdução à Ciência de Dados](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) | [Data Science Academy](https://www.datascienceacademy.com.br) | Dec&nbsp;2017 | [5a3d50145e4cdeb9d88b4574](https://goo.gl/vmB2fG) |  
-| ✔️ | [Python para Data Science e Machine Learning](https://www.udemy.com/python-para-data-science-e-machine-learning) | [Udemy](https://www.udemy.com) | Feb&nbsp;2018 | [UC-AW6HSRY4](http://ude.my/UC-AW6HSRY4) |  
+| ✔️ | [Introdução à Ciência de Dados](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) | [Data Science Academy](https://www.datascienceacademy.com.br) | Dec&nbsp;2017 | [<img width='28' height='28' src='https://media.licdn.com/dms/image/C4D0BAQFPN3qN2GxsZQ/company-logo_400_400/0?e=1550102400&v=beta&t=E-yESxqIuMpCCO3w-k7GRHL_ExN8H03YANOtiRof9tQ'>](https://goo.gl/vmB2fG) |  
+| ✔️ | [Python para Data Science e Machine Learning](https://www.udemy.com/python-para-data-science-e-machine-learning) | [Udemy](https://www.udemy.com) | Feb&nbsp;2018 | [<img width='28' height='28' src='https://media.licdn.com/dms/image/C510BAQFKXnLDglG5qA/company-logo_400_400/0?e=1550102400&v=beta&t=d-x-pPgn-5T7X-KBNakilqJieZGcTC50fXN82M_LOYk'>](http://ude.my/UC-AW6HSRY4) |  
 | ◻️ | [Python for Data Analysis (2nd ed.)](https://www.safaribooksonline.com/library/view/python-for-data/9781491957653/) | Wes McKinney | O'Reilly | Oct&nbsp;2017 |
 
 
