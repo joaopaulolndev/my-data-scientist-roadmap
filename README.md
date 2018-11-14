@@ -28,10 +28,14 @@ This is a selection of books for Data Science and related disciplines from which
 |  | **Title** | **Author** | **Publisher** | **Release Date** | 
 | ---------- | ----- | ------ | --------- | ------------ |
 | ◻️ | [Machine Learning with Python](http://shop.oreilly.com/product/0636920085423.do) | Chris Albon | O'Reilly Media | March 2018 | 
+| ◻️ | [Jupyter for Data Science](https://www.oreilly.com/library/view/jupyter-for-data/9781785880070) | Dan Toomey | O'Reilly Media | October 2017 | 
+| ◻️ | [Mastering Machine Learning with scikit-learn](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-scikit-learn) | Gavin Hackeling | Packt | October 2014 | 
+| ◻️ | [Introduction to Machine Learning with Python](https://www.amazon.com.br/Introduction-Machine-Learning-Python-Beginners-ebook/dp/B07GTPZ72K?tag=goog0ef-20&smid=A18CNA8NWQSYHH&ascsubtag=go_1366271959_58245915327_265589414315_pla-476553242118_c_) | David James | AI Sciences | Aug 2018 | 
 
 
 # 3. References
- Pandas Documentation 
+- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+- [Scikit-Learn Documentation](https://scikit-learn.org/stable/index.html)
  
 # 4. Contact 
 > Linkedin: https://www.linkedin.com/in/joaopaulolndev/ <br/> Email: joaopaulolndev@gmail.com
