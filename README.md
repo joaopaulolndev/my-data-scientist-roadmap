@@ -6,6 +6,9 @@
   </a>
 </p>
 
+#### Contact
+> Linkedin: https://www.linkedin.com/in/joaopaulolndev/ <br/> Email: joaopaulolndev@gmail.com
+
 ### Why this?
 I want to track the progress of my studies in this broad area. I do not intend to list a huge number of resources or courses, just the ones that I have completed so far and the following ones that are on my mind for a next step (in a short/medium or even long term). Anyway, valuable resources that may be part of my plan in the future.
 
@@ -31,3 +34,4 @@ This is a selection of books for Data Science and related disciplines from which
 
 
 # 3. References
+ Pandas Documentation 
