@@ -45,6 +45,8 @@ This is a selection of books for Data Science and related disciplines from which
 # 3. References
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
 - [Scikit-Learn Documentation](https://scikit-learn.org/stable/index.html)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Keras](https://keras.io)
  
 # 4. Contact 
 > Linkedin: https://www.linkedin.com/in/joaopaulolndev/ <br/> Email: joaopaulolndev@gmail.com
