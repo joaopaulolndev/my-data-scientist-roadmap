@@ -11,6 +11,13 @@ I want to track the progress of my studies in this broad area. I do not intend t
 
 # 1. Courses
 
+|    Status    |   Type          |   Date     | Name                                                      |     Company - Autor     |
+|:------------:|:---------------:|:----------:|:---------------------------------------------------------:|:-----------------------:|
+|     Done     |      Course     | 20/02/2017 | [Python Fundamentals]                                     | [4Linux]                |
+|     Done     |  Certification  | 19/03/2017 | [Linux Fundamentals in Cloud]                             | [4Linux]                |
+|     Done     |      Course     | 27/03/2017 | [Python Programming for SysAdmins]                        | [4Linux]                |
+
+
 # 2. Books
 
 # 3. References
