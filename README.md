@@ -40,6 +40,8 @@ This section is to list the courses taken and those that will be done in the fut
 | ◻️ | [Zero to Deep Learning™ with Python and Keras](https://www.udemy.com/zero-to-deep-learning/) | [Udemy](https://www.udemy.com) |  |  | 
 | ◻️ | [Complete Guide to TensorFlow for Deep Learning with Python](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | [Udemy](https://www.udemy.com) |  |  | 
 | ◻️ | [Machine Learning Practical: 6 Real-World Applications](https://www.udemy.com/machine-learning-practical/) | [Udemy](https://www.udemy.com) |  |  | 
+| ◻️ | [Machine Learning A-Z : Become Kaggle Master](https://www.udemy.com/machinelearning-kaggle/) | [Udemy](https://www.udemy.com) |  |  | 
+
 
 
 # 2. Books
