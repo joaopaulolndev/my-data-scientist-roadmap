@@ -62,6 +62,7 @@ This is a selection of books for Data Science and related disciplines from which
 - [TensorFlow](https://www.tensorflow.org/)
 - [Keras](https://keras.io)
 - [Numpy and Scipy Documentation](https://docs.scipy.org/doc/)
+- [Amazing Cheats Sheet DataCamp](https://goo.gl/VDCTeb)
  
 # 4. Contact 
 > Linkedin: https://www.linkedin.com/in/joaopaulolndev/ <br/> Email: joaopaulolndev@gmail.com
