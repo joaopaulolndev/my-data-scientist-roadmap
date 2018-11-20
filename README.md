@@ -30,11 +30,11 @@ This section is to list the courses taken and those that will be done in the fut
 | ✔️ | [Formação Cientista de Dados com R e Python](https://www.udemy.com/python-3-completo/) | [Udemy](https://www.udemy.com) | Nov&nbsp;2018 | [<img width='28' height='28' src='https://media.licdn.com/dms/image/C510BAQFKXnLDglG5qA/company-logo_400_400/0?e=1550102400&v=beta&t=d-x-pPgn-5T7X-KBNakilqJieZGcTC50fXN82M_LOYk'>](https://www.udemy.com/certificate/UC-IFJQVQJK/) | 
 | ◻️ | [Machine Learning Practical: 6 Real-World Applications](https://www.udemy.com/machine-learning-practical/) | [Udemy](https://www.udemy.com) | Progress |  | 
 | ◻️ | [Machine Learning A-Z : Become Kaggle Master](https://www.udemy.com/machinelearning-kaggle/) | [Udemy](https://www.udemy.com) | Progress |  | 
+| ◻️ | [Machine Learning and Data Science Hands-on with Python and R](https://www.udemy.com/machine-learning-masterclass/) | [Udemy](https://www.udemy.com) |  |  | 
 | ◻️ | [ PyTorch Scholarship Challenge](https://br.udacity.com/facebook-pytorch-scholarship) | [Udacity](https://www.udacity.com.br) | Progress |  | 
 | ◻️ | [Deep Learning com Python de A à Z - O Curso Completo](https://www.udemy.com/deep-learning-com-python-az-curso-completo/) | [Udemy](https://www.udemy.com) |  |  | 
 | ◻️ | [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/deeplearning/) | [Udemy](https://www.udemy.com) |  |  | 
 | ◻️ | [Deep Learning and NLP A-Z™: How to create a ChatBot](https://www.udemy.com/chatbot/) | [Udemy](https://www.udemy.com) |  |  | 
-| ◻️ | [Machine Learning and Data Science Hands-on with Python and R](https://www.udemy.com/machine-learning-masterclass/) | [Udemy](https://www.udemy.com) |  |  | 
 | ◻️ | [TensorFlow: Machine Learning e Deep Learning com Python](https://www.udemy.com/tensorflow-machine-learning-deep-learning-python/) | [Udemy](https://www.udemy.com) |  |  | 
 | ◻️ | [Detecção de Faces com Python e OpenCV](https://www.udemy.com/deteccao-de-faces-com-python-e-opencv/) | [Udemy](https://www.udemy.com) |  |  | 
 | ◻️ | [Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs](https://www.udemy.com/computer-vision-a-z/) | [Udemy](https://www.udemy.com) |  |  | 
